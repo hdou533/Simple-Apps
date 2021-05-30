@@ -5,4 +5,4 @@ practice with C# and .Net
 
 Build an app to convert temperature, using C#, web form in .Net.
 
-![Temperature Convertor App](/images/tempConvertor.png)
+![Temperature Convertor App](/images/tempConvertor.PNG)
