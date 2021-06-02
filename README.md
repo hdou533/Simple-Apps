@@ -12,4 +12,4 @@ Build an app to convert temperature, using C#, web form in .Net.
 
 Using the windows form in .Net, users can add a friend's name, sort the list with ascending or descending order, and clear all contents in the list.
 
-![Friends list](/images/FriendList.PNG)
+![Friends list](/images/FriendList.png)
