@@ -1,0 +1,14 @@
+D:\dotNet_Learning\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\dotNet_Learning\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\dotNet_Learning\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\dotNet_Learning\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\dotNet_Learning\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\dotNet_Learning\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\dotNet_Learning\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\dotNet_Learning\3. Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\dotNet_Learning\3. Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\dotNet_Learning\3. Calculator\Calculator\obj\Debug\Calculator.exe
+D:\dotNet_Learning\3. Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\dotNet_Learning\3. Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\dotNet_Learning\3. Calculator\Calculator\bin\Debug\Calculator.exe
+D:\dotNet_Learning\3. Calculator\Calculator\bin\Debug\Calculator.pdb
