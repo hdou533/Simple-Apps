@@ -21,3 +21,11 @@ Using the windows form in .Net, users can add a friend's name, sort the list wit
 # #4. Loan Calculator
 
 ![Loan Calculator](images/loanCalculator.PNG)
+
+# #5. Square Calculator 
+
+Input the start number and stop number, then the calculator will return a list of squared values.
+With clear button, users can begin a new turn.
+
+![Square Calculator](images/squareCalc.PNG)
+
