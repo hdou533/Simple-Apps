@@ -17,3 +17,7 @@ Using the windows form in .Net, users can add a friend's name, sort the list wit
 # #3. Calculator console application
 
 ![Calculator](images/Calculator.PNG)
+
+# #4. Loan Calculator
+
+![Loan Calculator](images/loanCalculator.PNG)
