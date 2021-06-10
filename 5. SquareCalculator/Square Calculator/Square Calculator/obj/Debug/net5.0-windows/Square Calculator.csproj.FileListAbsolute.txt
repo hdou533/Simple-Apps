@@ -1,0 +1,18 @@
+D:\Learning_dotNet\5. SquareCalculator\Square Calculator\Square Calculator\bin\Debug\net5.0-windows\Square Calculator.exe
+D:\Learning_dotNet\5. SquareCalculator\Square Calculator\Square Calculator\bin\Debug\net5.0-windows\Square Calculator.deps.json
+D:\Learning_dotNet\5. SquareCalculator\Square Calculator\Square Calculator\bin\Debug\net5.0-windows\Square Calculator.runtimeconfig.json
+D:\Learning_dotNet\5. SquareCalculator\Square Calculator\Square Calculator\bin\Debug\net5.0-windows\Square Calculator.runtimeconfig.dev.json
+D:\Learning_dotNet\5. SquareCalculator\Square Calculator\Square Calculator\bin\Debug\net5.0-windows\Square Calculator.dll
+D:\Learning_dotNet\5. SquareCalculator\Square Calculator\Square Calculator\bin\Debug\net5.0-windows\ref\Square Calculator.dll
+D:\Learning_dotNet\5. SquareCalculator\Square Calculator\Square Calculator\bin\Debug\net5.0-windows\Square Calculator.pdb
+D:\Learning_dotNet\5. SquareCalculator\Square Calculator\Square Calculator\obj\Debug\net5.0-windows\Square Calculator.csprojAssemblyReference.cache
+D:\Learning_dotNet\5. SquareCalculator\Square Calculator\Square Calculator\obj\Debug\net5.0-windows\Square_Calculator.Form1.resources
+D:\Learning_dotNet\5. SquareCalculator\Square Calculator\Square Calculator\obj\Debug\net5.0-windows\Square Calculator.csproj.GenerateResource.cache
+D:\Learning_dotNet\5. SquareCalculator\Square Calculator\Square Calculator\obj\Debug\net5.0-windows\Square Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning_dotNet\5. SquareCalculator\Square Calculator\Square Calculator\obj\Debug\net5.0-windows\Square Calculator.AssemblyInfoInputs.cache
+D:\Learning_dotNet\5. SquareCalculator\Square Calculator\Square Calculator\obj\Debug\net5.0-windows\Square Calculator.AssemblyInfo.cs
+D:\Learning_dotNet\5. SquareCalculator\Square Calculator\Square Calculator\obj\Debug\net5.0-windows\Square Calculator.csproj.CoreCompileInputs.cache
+D:\Learning_dotNet\5. SquareCalculator\Square Calculator\Square Calculator\obj\Debug\net5.0-windows\Square Calculator.dll
+D:\Learning_dotNet\5. SquareCalculator\Square Calculator\Square Calculator\obj\Debug\net5.0-windows\ref\Square Calculator.dll
+D:\Learning_dotNet\5. SquareCalculator\Square Calculator\Square Calculator\obj\Debug\net5.0-windows\Square Calculator.pdb
+D:\Learning_dotNet\5. SquareCalculator\Square Calculator\Square Calculator\obj\Debug\net5.0-windows\Square Calculator.genruntimeconfig.cache
